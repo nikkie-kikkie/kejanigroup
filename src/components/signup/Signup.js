@@ -32,9 +32,10 @@ export default function Signup() {
     }
     return (
         <MainContainer>
-            <h1>Welcome to Kejani.</h1>
-            <h2>Sign Up</h2>
-            {error && <h3>{error}</h3>}
+            <h1>KEJANI</h1>
+            <h2>FIND YOUR NEW HOME AT YOUR OWN COMFORT </h2>
+            <h3>Sign Up</h3>
+            {error && <h4>{error}</h4>}
 
             <FormContainer onSubmit={handleSubmit}>
                 <InputContainer>

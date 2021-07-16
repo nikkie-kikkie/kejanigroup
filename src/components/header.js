@@ -38,7 +38,7 @@ export default function Header() {
     return (
         <>
             <div className="headerContainer">
-                <Link to="/home" className="kejaniLink">Kejani.</Link>
+                <Link to="/home" className="kejaniLink">KEJANI</Link>
                 <div className="searchContainer">
                     <label>Search for apartments in your desired location</label>
                     <div className="searchInput">

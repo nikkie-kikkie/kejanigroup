@@ -28,7 +28,7 @@ export default function Dashboard() {
                 <h2>Terms and Conditions:</h2><br />
                 <p>No payments should take place in Kejani. We have no agents or ground officers.</p>
                 <p>Before you make any payments make sure to visit the apartment and see the house first hand.</p>
-                <p>Copyright:Kejani,2021</p>
+                <p>Copyright:Kejani@2021</p>
             </div>
         </>
     )
