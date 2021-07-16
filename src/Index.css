@@ -93,7 +93,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image:url("homepage.jpg");
+  background-image:url(images/homepage.jpg);
   
 }
 .sideContainer {
