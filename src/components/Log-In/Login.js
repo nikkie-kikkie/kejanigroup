@@ -23,7 +23,9 @@ export default function Login() {
         }
         setLoading(false)
     }
-    return (
+    return (  
+        <div className="loginContainer">
+
         <MainContainer>
             <h1>Kejani.</h1>
             <h2>Log In</h2>
@@ -44,6 +46,7 @@ export default function Login() {
             </FormContainer>
             <p>Need an account? <Link to="/signup/Signup">Sign Up</Link></p>
         </MainContainer>
+        </div>
     )
 }
 

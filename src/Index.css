@@ -20,6 +20,13 @@
   justify-content: space-between;
   align-items: center;
 }
+/*login styling*/
+.loginContainer{
+  background-image: url(images/homepage.jpg);
+  background-size: cover;
+}
+
+
 .headerContainer {
   display: flex;
   align-items: center;
