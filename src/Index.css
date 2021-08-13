@@ -22,7 +22,12 @@
 }
 /*login styling*/
 .loginContainer{
-  background-image: url(images/homepage.jpg);
+  background-image: url(images/miki-fath-1v1zjqxldmc-unsplash.jpg);
+  background-size: cover;
+}
+
+.signupContainer{
+  background-image: url(images/pascal-bernardon-TVcj-so0GDs-unsplash.jpg)
   background-size: cover;
 }
 
@@ -100,8 +105,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image:url(images/homepage.jpg);
-  
+ 
 }
 .sideContainer {
   width: 30%;

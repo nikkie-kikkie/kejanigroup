@@ -31,6 +31,7 @@ export default function Signup() {
         setLoading(false)
     }
     return (
+        <div className = "signupContainer">
         <MainContainer>
             <h1>KEJANI</h1>
             <h2>FIND YOUR NEW HOME AT YOUR OWN COMFORT </h2>
@@ -60,6 +61,7 @@ export default function Signup() {
             </FormContainer>
             <p>Already have an account? <Link to="/Log-In/Login">Log In</Link></p>
         </MainContainer>
+        </div>
     )
 }
 
